@@ -135,6 +135,17 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Calvin",
+      "species": "Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
